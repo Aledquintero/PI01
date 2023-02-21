@@ -1,3 +1,4 @@
 # Proyecto Individual 01
 
-[Video explicativo](https://youtu.be/rLUn2rhO37s)
+📹🔴 ¿Quieres saber como funciona el proyecto?
+[Video explicativo](https://www.youtube.com/watch?v=FR_3CNE1L_A)
